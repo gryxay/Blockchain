@@ -1,0 +1,17 @@
+.styled-link {
+    color: #87ceeb;
+    text-decoration: none;
+    transition: color 0.3s ease;
+  }
+  
+.styled-link:hover {
+color: #6ca6cd;
+}
+
+.styled-link:active {
+color: #4a708b;
+}
+
+#main-page {
+    margin-bottom: auto;
+}
